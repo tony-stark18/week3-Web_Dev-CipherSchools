@@ -10,5 +10,5 @@ else if(guess==winningNumber){
     console.log("you guessed it right!");
 }
 else{
-    console.log("I don't now what are you saying so Fuck Off with all due respect")
+    console.log("Sorry! Try again")
 }
